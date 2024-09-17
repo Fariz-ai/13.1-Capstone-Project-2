@@ -1,4 +1,4 @@
-# Capstop Project 2
+# Capstone Project 2
 
 **Capstop Project 2** is a responsive personal portfolio website built using only HTML and Bootstrap. The project features a clean and modern design, with the following sections:
 
