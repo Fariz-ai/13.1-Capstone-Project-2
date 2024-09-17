@@ -1,0 +1,10 @@
+/** @format */
+
+.gradient-background {
+  background-image: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
+}
+
+.profile-img {
+  height: 120px;
+  border-radius: 50%;
+}
